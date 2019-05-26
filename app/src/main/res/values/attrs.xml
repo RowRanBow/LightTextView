@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LightTextView">
+        <attr name="leftTextString" format="string"/>
+        <attr name="centerTextString" format="string"/>
+        <attr name="righTxtString" format="string"/>
+
+        <attr name="leftTextSize" format="dimension"/>
+        <attr name="centerTextSize" format="dimension"/>
+        <attr name="rightTextSize" format="dimension"/>
+
+        <attr name="leftTextColor" format="color"/>
+        <attr name="centerTextColor" format="color"/>
+        <attr name="rightTextColor" format="color"/>
+
+        <attr name="sLightTextViewBacgroundColor" format="color"/>
+
+        <attr name="leftImageRes" format="reference"/>
+
+        <attr name="leftImageMarginLeft" format="dimension"/>
+        <attr name="rightImageMaiginRight" format="dimension"/>
+
+        <attr name="rightImageRes" format="reference"/>
+
+        <attr name="rightImageMarginleft" format="dimension"/>
+        <attr name="rightImageMarginright" format="dimension"/>
+    </declare-styleable>
+</resources>
